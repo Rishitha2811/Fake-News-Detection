@@ -53,4 +53,7 @@ Save and Double-click the .bat file
 
 Each model's performance metrics, such as accuracy and loss, are summarized in the `Results` section. These results are based on the K-fold cross-validation approach to ensure model effectiveness across different subsets of the dataset.
 
+## Web Integration
+![image](https://github.com/Rishitha2811/Fake-News-Detection/assets/99421940/947f83b2-22cf-4ac4-811f-74b747b8904c)
+
 
