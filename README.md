@@ -48,14 +48,4 @@ Detailed instructions on how to train and evaluate each model are provided in th
 
 Each model's performance metrics, such as accuracy and loss, are summarized in the `Results` section. These results are based on the K-fold cross-validation approach to ensure model effectiveness across different subsets of the dataset.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contributions
-
-Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-You can customize this template further by adding your specific details, results, and any additional sections that might be relevant to your project.
