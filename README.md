@@ -39,7 +39,10 @@ Install the required packages using:
 ```bash
 pip install -r requirements.txt
 ```
+## Front-end and Back-end Implementation
 
+Frontend is created using React-js
+Backend is created using Flask 
 ## Usage
 
 Detailed instructions on how to train and evaluate each model are provided in the Jupyter notebooks within this repository. To get started, clone this repository and run the Jupyter notebooks.
