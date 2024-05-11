@@ -21,8 +21,8 @@ Fake news detection is a critical task in the era of widespread digital informat
 ## Dataset
 
 The dataset utilized in this project comprises two CSV files sourced from GossipCop, categorized into fake and real news samples. The files are used to train and test the deep learning models to distinguish between fake and real news articles:
-gossipcop_fake.csv: Contains samples of fake news collected from GossipCop.
-gossipcop_real.csv: Contains samples of real news collected from GossipCop.
+- gossipcop_fake.csv: Contains samples of fake news collected from GossipCop.
+- gossipcop_real.csv: Contains samples of real news collected from GossipCop.
 Detailed descriptions of how these files are preprocessed and utilized in the models are provided in the Jupyter notebooks within this repository.
 
 ## Requirements
