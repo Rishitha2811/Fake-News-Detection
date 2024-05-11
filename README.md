@@ -43,6 +43,8 @@ pip install -r requirements.txt
 ## Usage
 
 Detailed instructions on how to train and evaluate each model are provided in the Jupyter notebooks within this repository. To get started, clone this repository and run the Jupyter notebooks.
+For easier run: Edit the .bat file and replace the path for the app.py and similarly do the same for app.js.
+Save and Double-click the .bat file
 
 ## Results
 
