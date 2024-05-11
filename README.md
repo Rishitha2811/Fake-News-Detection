@@ -55,5 +55,9 @@ Each model's performance metrics, such as accuracy and loss, are summarized in t
 
 ## Web Integration
 ![image](https://github.com/Rishitha2811/Fake-News-Detection/assets/99421940/947f83b2-22cf-4ac4-811f-74b747b8904c)
+![image](https://github.com/Rishitha2811/Fake-News-Detection/assets/99421940/e48bfc90-c98e-4d4e-9955-5d11684a41c4)
+![image](https://github.com/Rishitha2811/Fake-News-Detection/assets/99421940/953b5b02-21b3-4777-9f83-faa7b9e31a87)
+
+
 
 
